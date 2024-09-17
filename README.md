@@ -24,8 +24,8 @@ This is a FastAPI-based polling application that allows users to create, update,
 1. Clone this repository:
 
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone https://github.com/juhiikataria/inFYInite-Polling-App.git
+   cd inFYInite-Polling-App
    ```
 
 2. Install required dependencies:
