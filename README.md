@@ -13,7 +13,6 @@ This is a FastAPI-based polling application that allows users to create, update,
 
 ## Prerequisites
 
-- **Python 3.7+**
 - **FastAPI**: Framework used to build the API.
 - **SQLAlchemy**: ORM for interacting with the MySQL database.
 - **MySQL**: Backend database for storing poll questions and answers.
