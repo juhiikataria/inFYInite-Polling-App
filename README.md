@@ -123,9 +123,3 @@ If deploying to AWS Lambda, use `Mangum` to create a handler for the Lambda func
 ```python
 handler = Mangum(app)
 ```
-
-### License
-
-This project is licensed under the MIT License.
-
----
